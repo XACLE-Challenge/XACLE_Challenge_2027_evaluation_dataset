@@ -35,7 +35,7 @@ You will receive an automated reply with the download link.
 The directory structure of this dataset is as follows:
 
 ```
-XACLE_dataset
+XACLE2027_evaluation_dataset
 ├── meta_data
 │   ├── evaluation.csv
 │   
