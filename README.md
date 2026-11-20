@@ -22,7 +22,7 @@ You will receive an automated reply with the download link.
 |  | Test |
 | :--- | ---: |
 | Audio–text pairs | 4,000 |
-| Audio duration [s] |  30,000 |
+| Audio duration [s] | 38,744.6 |
 
 ## File format
 
